@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "TestPowerPjt", "TestPowerPjt\TestPowerPjt.vcxproj", "{E0B19889-11F2-4020-9BD2-334CD98E7810}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ShareEPowerRTDLL", "..\ShareEPowerRTDLL\ShareEPowerRTDLL.vcxproj", "{E86F82B0-C8DD-4085-B73B-977C6807F475}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+		RtssDebug|x64 = RtssDebug|x64
+		RtssRelease|x64 = RtssRelease|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.Debug|x64.ActiveCfg = Debug|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.Debug|x64.Build.0 = Debug|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.Release|x64.ActiveCfg = Release|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.Release|x64.Build.0 = Release|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.RtssDebug|x64.ActiveCfg = RtssDebug|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.RtssDebug|x64.Build.0 = RtssDebug|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.RtssRelease|x64.ActiveCfg = RtssRelease|x64
+		{E0B19889-11F2-4020-9BD2-334CD98E7810}.RtssRelease|x64.Build.0 = RtssRelease|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.Debug|x64.ActiveCfg = Debug|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.Debug|x64.Build.0 = Debug|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.Release|x64.ActiveCfg = Release|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.Release|x64.Build.0 = Release|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.RtssDebug|x64.ActiveCfg = RtssDebug|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.RtssDebug|x64.Build.0 = RtssDebug|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.RtssRelease|x64.ActiveCfg = RtssRelease|x64
+		{E86F82B0-C8DD-4085-B73B-977C6807F475}.RtssRelease|x64.Build.0 = RtssRelease|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
